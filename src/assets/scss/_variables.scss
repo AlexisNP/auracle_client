@@ -1,0 +1,31 @@
+//// COLOURS
+// Global colours
+$white: #FFF;
+$black: #000;
+$dull-black: #0D0D0D;
+
+$primary-base: #2c3e50;
+$primary-blue: #599EF4;
+$secondary-blue: #355F91;
+
+$valid: #6AC47B;
+$warning: #F7A758;
+$alert: #F44E4E;
+
+// FONT FAMILY BASES
+$font-family: 'Lato', sans-serif !default;
+
+$light: 300;
+$regular: 400;
+$bold: 700;
+$heavy: 900;
+
+$font-size-root: 16px !default;
+$font-size-base: 1rem !default;
+$line-height-base: 1.3 !default;
+
+// Breakpoints
+$bp-sm:     576px;
+$bp-md:     768px;
+$bp-lg:     992px;
+$bp-xl:     1200px;
